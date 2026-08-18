@@ -38,7 +38,6 @@ Desenvolvido para a **Global Solution 2026 da FIAP** sob o tema *"Indústria Esp
 
 <div align="center">
   
-  <!-- ESPAÇO PARA A FOTO DO PROJETO FÍSICO -->
   <img src="./src/assets/orbitcore.jpg" alt="Foto Oficial do Protótipo Físico do OrbitCore" width="600" style="border-radius: 10px; border: 2px solid #ec008c;"/>
   <br/>
 
@@ -55,11 +54,12 @@ O protótipo tangibiliza o conceito de exploração espacial. O corpo central ab
 
 ## 💻 Gêmeo Digital: Simulação no Wokwi
 
+  <img src="./src/assets/wokwi.png" alt="Simulação no WOKWI" width="600" style="border-radius: 10px; border: 2px solid #ec008c;"/>
+  <br/>
+
 Quer testar a sonda agora mesmo sem o hardware físico? Criamos uma simulação completa do circuito OrbitCore na plataforma Wokwi. 
 
-**[Clique aqui para abrir no Wokwi em Tela Cheia](https://wokwi.com/projects/465213890222709761)** ou interaja diretamente pelo emulador abaixo (se suportado pelo seu leitor de Markdown):
-
-<iframe src="https://wokwi.com/projects/465213890222709761?embed=1&theme=dark&v=13" width="100%" height="450" style="border:1px solid #333; border-radius: 8px;"></iframe>
+**[Clique aqui para abrir no Wokwi em Tela Cheia](https://wokwi.com/projects/465213890222709761)** 
 
 ---
 

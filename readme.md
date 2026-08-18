@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛸 OrbitCore
+#  OrbitCore
 
 ### Sonda Veleiro Solar de Exploração de Exoplanetas
 
@@ -13,13 +13,13 @@
 ![Premio](https://img.shields.io/badge/pr%C3%AAmio-1%C2%BA_lugar-gold)
 ![Licenca](https://img.shields.io/badge/licen%C3%A7a-acad%C3%AAmica-blue)
 
-**[🌐 Acessar o Site](https://iantassiotto.github.io/Projeto_OrbitCore/)** · **[🎥 Assistir ao Vídeo](https://www.youtube.com/watch?v=8CI5FU4M9v0)**
+**[🌐 Acessar o Site](https://iantassiotto.github.io/Projeto_OrbitCore/)**    ·    **[🎥 Assistir ao Vídeo](https://www.youtube.com/watch?v=8CI5FU4M9v0)**
 
 </div>
 
 ---
 
-## 📖 Sobre a Missão
+## Sobre a Missão
 
 E se a luz das estrelas pudesse nos guiar a novos lares?
 
@@ -31,7 +31,7 @@ Desenvolvido para a **Global Solution 2026 da FIAP** sob o tema *"Indústria Esp
 
 ---
 
-## 🛰️ O Protótipo Físico
+## O Protótipo Físico
 
 <div align="center">
   
@@ -49,7 +49,7 @@ O protótipo tangibiliza o conceito de exploração espacial. O corpo central ab
 
 ---
 
-## 💻 Gêmeo Digital: Simulação no Wokwi
+## Gêmeo Digital: Simulação no Wokwi
 
   <img src="./src/assets/wokwi.png" alt="Simulação no WOKWI" width="600" style="border-radius: 10px; border: 2px solid #ec008c;"/>
   <br/>
@@ -60,7 +60,7 @@ Quer testar a sonda agora mesmo sem o hardware físico? Criamos uma simulação 
 
 ---
 
-## ⚙️ Arquitetura do Sistema
+## Arquitetura do Sistema
 
 O OrbitCore opera sob uma arquitetura de três camadas altamente integradas:
 
@@ -70,7 +70,7 @@ O OrbitCore opera sob uma arquitetura de três camadas altamente integradas:
 
 ---
 
-## 🧠 Firmware da Sonda (Código-Fonte)
+## Firmware da Sonda (Código-Fonte)
 
 O núcleo operacional da sonda foi desenvolvido em C++ para Arduino. O código gerencia a identificação planetária, o registro histórico em EEPROM e a interface homem-máquina (IHM).
 
@@ -79,7 +79,7 @@ O núcleo operacional da sonda foi desenvolvido em C++ para Arduino. O código g
 <br/>
 
 <details>
-<summary><b>👨‍💻 Clique aqui para expandir o Código C++ do OrbitCore</b></summary>
+<summary><b> Clique aqui para expandir o Código C++ do OrbitCore</b></summary>
 
 ```cpp
 /*

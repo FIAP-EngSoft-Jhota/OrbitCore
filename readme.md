@@ -39,9 +39,8 @@ Desenvolvido para a **Global Solution 2026 da FIAP** sob o tema *"Indústria Esp
 <div align="center">
   
   <!-- ESPAÇO PARA A FOTO DO PROJETO FÍSICO -->
-  <img src="INSIRA_A_URL_DA_SUA_FOTO_AQUI.jpg" alt="Foto Oficial do Protótipo Físico do OrbitCore" width="600" style="border-radius: 10px; border: 2px solid #ec008c;"/>
+  <img src="./src/assets/orbitcore.jpg" alt="Foto Oficial do Protótipo Físico do OrbitCore" width="600" style="border-radius: 10px; border: 2px solid #ec008c;"/>
   <br/>
-  <sub><em>📸 Substitua "INSIRA_A_URL_DA_SUA_FOTO_AQUI.jpg" pelo caminho real da foto do seu protótipo.</em></sub>
 
 </div>
 

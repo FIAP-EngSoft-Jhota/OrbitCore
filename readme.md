@@ -74,13 +74,9 @@ O OrbitCore opera sob uma arquitetura de três camadas altamente integradas:
 
 O núcleo operacional da sonda foi desenvolvido em C++ para Arduino. O código gerencia a identificação planetária, o registro histórico em EEPROM e a interface homem-máquina (IHM).
 
-<div align="center">
-
 <br/>
 <img src="https://fiap-achievements.vercel.app/api/badge?badge=gs&year=2025&topic=future-of-work&theme=dark" width="100" />
 <br/>
-
-<div/>
 
 <details>
 <summary><b>👨‍💻 Clique aqui para expandir o Código C++ do OrbitCore</b></summary>

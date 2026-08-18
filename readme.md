@@ -1,6 +1,7 @@
 <div align="center">
 
 # 🛸 OrbitCore
+
 ### Sonda Veleiro Solar de Exploração de Exoplanetas
 
 *"Transforme a luz em possibilidades."*
@@ -9,14 +10,14 @@
 <img src="https://fiap-achievements.vercel.app/api/badge?badge=gs&year=2025&topic=future-of-work&theme=dark" width="100" />
 <br/>
 
-🏆 **PROJETO CAMPEÃO — 1º LUGAR NA GLOBAL SOLUTION 2026 DA FIAP** 🏆
+🏆 **Projeto CAMPEÃO — 1º lugar na Global Solution 2026 da FIAP** 🏆
 
-![Status](https://img.shields.io/badge/Status-Missão_Concluída-success?style=for-the-badge)
-![FIAP](https://img.shields.io/badge/FIAP-Global_Solution_2026-ec008c?style=for-the-badge)
-![Premio](https://img.shields.io/badge/Prêmio-1º_Lugar-gold?style=for-the-badge)
-![Licenca](https://img.shields.io/badge/Licença-Acadêmica-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/status-conclu%C3%ADdo-success)
+![FIAP](https://img.shields.io/badge/FIAP-Global_Solution_2026-ec008c)
+![Premio](https://img.shields.io/badge/pr%C3%AAmio-1%C2%BA_lugar-gold)
+![Licenca](https://img.shields.io/badge/licen%C3%A7a-acad%C3%AAmica-blue)
 
-**[🌐 Acessar o Site Oficial](https://iantassiotto.github.io/Projeto_OrbitCore_site/index.html)** · **[🎥 Assistir ao Pitch/Vídeo](https://www.youtube.com/watch?v=8CI5FU4M9v0)**
+**[🌐 Acessar o Site](https://iantassiotto.github.io/Projeto_OrbitCore/)** · **[🎥 Assistir ao Vídeo](https://www.youtube.com/watch?v=8CI5FU4M9v0)**
 
 </div>
 
